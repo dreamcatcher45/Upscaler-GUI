@@ -12,6 +12,11 @@ A GUI frontend for  [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)
 - Double click on upscalergui.exe to start the application.
 - It is recommended to pin to taskbar or create a desktop shortcut
 
+## 🖼️Screenshot
+![mockup](https://user-images.githubusercontent.com/105426078/235989770-91fba701-a938-4403-a3b9-64ed1741ad1c.png)
+
+
+
 ## ⚠️Warning
 We would like to clarify that the developer of this application is not affiliated with the `Real-ESRGAN `Project and does not claim any rights to it. The purpose of this application is to serve as a graphical user interface for the `Real-ESRGAN` application. Please note that the `Real-ESRGAN` application is not included with the upscaler app, and users are directed to download it from the source repository. As with any software, standard disclaimers apply.
 ## 🎁Contribute
