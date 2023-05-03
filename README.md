@@ -1,5 +1,5 @@
 # Upscaler GUI 
-[![Downloads](https://img.shields.io/github/downloads/dreamcatcher45/Upscaler-GUI/total.svg)](https://github.com/dreamcatcher45/Upscaler-GUI/releases/tag/v1.0.0)
+[![Downloads](https://img.shields.io/github/downloads/dreamcatcher45/Upscaler-GUI/total.svg)](https://github.com/dreamcatcher45/Upscaler-GUI/releases/tag/v1.0.0) 
 
 A GUI frontend for  [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)
 
