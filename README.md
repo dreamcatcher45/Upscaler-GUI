@@ -4,12 +4,12 @@ A GUI frontend for  [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)
 
 ## Installation
 
-- Download the Upscaler GUI from the releases page
-- Visit the official github repository of Real-ESRGAN and download the ` Windows executable files for Intel/AMD/Nvidia GPU.`
+- Download the Upscaler GUI from the [releases](https://github.com/dreamcatcher45/Upscaler-GUI/releases) page
+- Visit the official github repository of [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) and download the ` Windows executable files for Intel/AMD/Nvidia GPU.`
 - Unzip both files
-- Copy all files from Upscaler,s folder and place it in the Real-ESRGAN folder
-- Click on upscalergui.exe to start the application.
-- Its recommended to pin to taskbar or create a desktop shortcut
+- Copy all files from Upscaler's folder and place it in the Real-ESRGAN folder
+- Double click on upscalergui.exe to start the application.
+- It is recommended to pin to taskbar or create a desktop shortcut
 
 ## ⚠️Warning
 We would like to clarify that the developer of this application is not affiliated with the `Real-ESRGAN `Project and does not claim any rights to it. The purpose of this application is to serve as a graphical user interface for the `Real-ESRGAN` application. Please note that the `Real-ESRGAN` application is not included with the upscaler app, and users are directed to download it from the source repository. As with any software, standard disclaimers apply.
